@@ -45,5 +45,5 @@ All source code is made available under a GNU AFFERO GENERAL PUBLIC LICENSE Vers
 use and modify the code, without warranty, so long as you provide attribution
 to the authors. See `LICENSE.md` for the full license text.
 
-The manuscript text is not open source. The authors reserve the rights to the
+The manuscript text and presentation slides are not open source. The authors reserve the rights to the
 article content.
