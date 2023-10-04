@@ -33,6 +33,11 @@ and the different measurement methods (sEEG and ECoG) the
 model was able to extract robust patterns predictive of the state
 of consciousness.
 
+## Results
+- Notebook [evaluate_doc_forest_epochs.ipynb](https://github.com/randomrain101/doc-forest_clis_anesthesia/blob/main/notebooks/doc_for_clis/evaluate_doc_forest_epochs.ipynb) showing performance and feature importance on anesthesia data
+
+- Notebook [predict_clis_with_doc_forest.ipynb](https://github.com/randomrain101/doc-forest_clis_anesthesia/blob/main/notebooks/doc_for_clis/predict_clis_with_doc_forest.ipynb) showing predictions and feature contributions for CLIS data
+
 ## Dependencies
 
 The "nice" package ([GitHub repository](https://github.com/nice-tools/nice)) provided by the authors of the original DoC-Forest paper 
