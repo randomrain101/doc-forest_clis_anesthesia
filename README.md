@@ -1,9 +1,6 @@
 # Evaluating the DoC-Forest tool for Classifying the State of Consciousness in a Completely Locked-In Syndrome Patient
 
-by
-Oliver Kirsten,
-Martin Bogdan,
-Sophie Adama
+Kirsten, Oliver and Bogdan, Martin and Adama, Sophie
 
 This paper ([PDF, ](documents/paper_icispc_2023.pdf) [doi.org/10.1109/ICISPC59567.2023.00015]( doi.org/10.1109/ICISPC59567.2023.00015)) has been presented at the 2023 7th International Conference on Imaging, Signal Processing and Communications (ICISPC).
 
@@ -38,15 +35,6 @@ of consciousness.
 
 - Notebook [predict_clis_with_doc_forest.ipynb](https://github.com/randomrain101/doc-forest_clis_anesthesia/blob/main/notebooks/doc_for_clis/predict_clis_with_doc_forest.ipynb) showing predictions and feature contributions for CLIS data
 
-## License
-
-All source code is made available under a GNU AFFERO GENERAL PUBLIC LICENSE Version 3 license. You can freely
-use and modify the code, without warranty, so long as you provide attribution
-to the authors. See `LICENSE.md` for the full license text.
-
-The manuscript text and presentation slides are not open source. The authors reserve the rights to the
-article content.
-
 ## Cite
 
     @inproceedings{kirsten2023evaluating,
@@ -57,3 +45,12 @@ article content.
         year={2023},
         organization={IEEE}
     }
+
+## License
+
+All source code is made available under a GNU AFFERO GENERAL PUBLIC LICENSE Version 3 license. You can freely
+use and modify the code, without warranty, so long as you provide attribution
+to the authors. See `LICENSE.md` for the full license text.
+
+The manuscript text and presentation slides are not open source. The authors reserve the rights to the
+article content.
