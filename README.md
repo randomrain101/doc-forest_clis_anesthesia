@@ -5,7 +5,7 @@ Oliver Kirsten,
 Martin Bogdan,
 Sophie Adama
 
-This [paper](documents/paper_icispc_2023.pdf) has been presented at the 2023 7th International Conference on Imaging, Signal Processing and Communications (ICISPC).
+This paper ([PDF, ](documents/paper_icispc_2023.pdf) [doi.org/10.1109/ICISPC59567.2023.00015]( doi.org/10.1109/ICISPC59567.2023.00015)) has been presented at the 2023 7th International Conference on Imaging, Signal Processing and Communications (ICISPC).
 
 ## Abstract
 
@@ -38,12 +38,6 @@ of consciousness.
 
 - Notebook [predict_clis_with_doc_forest.ipynb](https://github.com/randomrain101/doc-forest_clis_anesthesia/blob/main/notebooks/doc_for_clis/predict_clis_with_doc_forest.ipynb) showing predictions and feature contributions for CLIS data
 
-## Dependencies
-
-The "nice" package ([GitHub repository](https://github.com/nice-tools/nice)) provided by the authors of the original DoC-Forest paper 
-(Engemann, Denis A., et al. [”Robust EEG-based cross-site and cross-
-protocol classification of states of consciousness.”](https://academic.oup.com/brain/article/141/11/3179/5114404)).
-...
 ## License
 
 All source code is made available under a GNU AFFERO GENERAL PUBLIC LICENSE Version 3 license. You can freely
@@ -52,3 +46,14 @@ to the authors. See `LICENSE.md` for the full license text.
 
 The manuscript text and presentation slides are not open source. The authors reserve the rights to the
 article content.
+
+## Cite
+
+    @inproceedings{kirsten2023evaluating,
+        title={Evaluating the DoC-Forest tool for Classifying the State of Consciousness in a Completely Locked-In Syndrome Patient},
+        author={Kirsten, Oliver and Bogdan, Martin and Adama, Sophie},
+        booktitle={2023 7th International Conference on Imaging, Signal Processing and Communications (ICISPC)},
+        pages={37--41},
+        year={2023},
+        organization={IEEE}
+    }
