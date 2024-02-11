@@ -35,6 +35,9 @@ of consciousness.
 
 - Notebook [predict_clis_with_doc_forest.ipynb](https://github.com/randomrain101/doc-forest_clis_anesthesia/blob/main/notebooks/doc_for_clis/predict_clis_with_doc_forest.ipynb) showing predictions and feature contributions for CLIS data
 
+## DoC-Forest method
+Engemann, Denis A., et al. "Robust EEG-based cross-site and cross-protocol classification of states of consciousness." Brain 141.11 (2018): 3179-3192. [https://doi.org/10.1093/brain/awy251](https://doi.org/10.1093/brain/awy251)
+
 ## Cite
 
     @inproceedings{kirsten2023evaluating,
