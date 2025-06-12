@@ -2,7 +2,7 @@
 
 Kirsten, Oliver and Bogdan, Martin and Adama, Sophie
 
-This paper [(PDF)](documents/paper_icispc_2023.pdf) [(DOI)](doi.org/10.1109/ICISPC59567.2023.00015) has been presented at the 2023 7th International Conference on Imaging, Signal Processing and Communications (ICISPC).
+This paper [(PDF)](documents/paper_icispc_2023.pdf) [(DOI)](https://doi.org/10.1109/ICISPC59567.2023.00015) has been presented at the 2023 7th International Conference on Imaging, Signal Processing and Communications (ICISPC).
 
 ## Abstract
 
